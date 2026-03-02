@@ -70,10 +70,11 @@ Currently focused on developing an intelligent learning platform powered by RAG 
     <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br>Netlify</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br>Gunicorn</td>
     <td align="center"><img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/_static/transformers.svg" width="48"/><br>Transformers</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS EC2</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" width="48"/><br>Google Maps API</td>
+    <td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="HuggingFace" /> <br>HuggingFace
+    </td>    <td align="center"><img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" width="48"/><br>Google Maps API</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/><br>Swagger</td>
+    <td align="center" width="96"><img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="Swagger API"             width="48" height="48"/><br>Swagger </td>
   </tr>
 
   <tr>
