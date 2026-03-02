@@ -5,13 +5,12 @@
 <h3 align="left">About Me</h3>
 <br/>
 
-* 🛠️ **Current Focus:** Refining event-driven architectures and large-scale third-party API integrations (Google Maps, Razorpay, OpenWeatherMap).
-* 🌱 **Learning:** Expanding my expertise in **DevOps** (Docker, AWS) and **AI/NLP pipelines** using Hugging Face and TextBlob.
-* 💬 **Ask me about:** Python, Django, React, Microservices, and WebSocket implementation.
-* ⚡ **Fun Fact:** I’ve optimized backend performance by **60%** using advanced ORM techniques.
+* 🛠️ Current Focus: An AI-powered learning platform for structured study.
+* 🌱 Currently Learning: FastAPI, SQLAlchemy, MongoDB (ODM), RAG, Agentic AI.
+* 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap).
 
 </div>
-🔗 Connect with me:
+Connect with me:
 <br/>
 
 <p align="left">
@@ -20,8 +19,9 @@
 </p>
 
 <br/>
-🛠️ Languages and Tools:
+Languages and Tools:
 <br/>
+
 <div align="center">
 <table>
   <tr>
@@ -162,7 +162,7 @@
     </td>
   </tr>
 </table>
-## 🌠Contribution Galaxy
+Contribution Galaxy
 
 <div align="center">
 
