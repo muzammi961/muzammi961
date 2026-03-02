@@ -5,22 +5,23 @@
 <h3 align="left">About Me</h3>
 <br/>
 
-* [cite_start]🛠️ **Current Focus:** Refining event-driven architectures and large-scale third-party API integrations (Google Maps, Razorpay, OpenWeatherMap). [cite: 29, 31, 38]
-* [cite_start]🌱 **Learning:** Expanding my expertise in **DevOps** (Docker, AWS) and **AI/NLP pipelines** using Hugging Face and TextBlob. [cite: 21, 23, 40]
-* [cite_start]💬 **Ask me about:** Python, Django, React, Microservices, and WebSocket implementation. [cite: 18, 19, 22, 44]
-* [cite_start]⚡ **Fun Fact:** I’ve optimized backend performance by **60%** using advanced ORM techniques. [cite: 43]
+* 🛠️ **Current Focus:** Refining event-driven architectures and large-scale third-party API integrations (Google Maps, Razorpay, OpenWeatherMap).
+* 🌱 **Learning:** Expanding my expertise in **DevOps** (Docker, AWS) and **AI/NLP pipelines** using Hugging Face and TextBlob.
+* 💬 **Ask me about:** Python, Django, React, Microservices, and WebSocket implementation.
+* ⚡ **Fun Fact:** I’ve optimized backend performance by **60%** using advanced ORM techniques.
 
 </div>
 🔗 Connect with me:
+<br/>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/muzammil-cherukkavil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil" height="30" width="40" /></a>
 <a href="https://github.com/YOUR_GITHUB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muzammil" height="30" width="40" /></a>
 </p>
 
----
+<br/>
 🛠️ Languages and Tools:
-
+<br/>
 <div align="center">
 <table>
   <tr>
