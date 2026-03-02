@@ -3,30 +3,23 @@
 </div>
 <br/>
 
-
-
 <h3 align="left">About Me</h3>
 <p align="left"></p>
-
 - 🛠️ Currently working: An AI-powered learning platform for structured study
 - 🌱 Currently Learning: FastAPI, SQLAlchemy, MongoDB (ODM), RAG, Agentic AI
 - 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap)
-
-
-Connect with me:
 <br/>
 
+Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/muzammil-cherukkavil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/BeEJU9y2AK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thousi_731" height="30" width="40" /></a>
-<a href="mailto:muzammilkizhukeric@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="muzammilkizhukeric" height="30" width="40" />
+<a href="mailto:muzammilkizhukeric@gmail.com" target="blank"><img align="center" src="https://thumbs.dreamstime.com/b/gmail-email-logo-icon-beautiful-meticulously-designed-225149202.jpg" alt="muzammilkizhukeric" height="30" width="40" />
 </a>
 </p>
 
 <br/>
 Languages and Tools:
-<br/>
-
 <div align="center">
 <table>
   <tr>
@@ -167,15 +160,12 @@ Languages and Tools:
     </td>
   </tr>
 </table>
-Contribution Galaxy
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzammi961&bg_color=0a0a1a&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&area_color=2D1B69&hide_border=true)](https://github.com/muzami961)
-
-</div>
-
   
+ <br/> 
+Contribution Galaxy
+<div align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzammi961&bg_color=0a0a1a&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&area_color=2D1B69&hide_border=true)](https://github.com/muzami961)
+</div>
 </div>
 
 
