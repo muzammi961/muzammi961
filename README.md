@@ -59,10 +59,6 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis" />
       <br>Redis
     </td>
@@ -119,9 +115,9 @@
       <br>RabbitMQ
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=celery" width="48" height="48" alt="Celery" />
-      <br>Celery
-    </td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="48" height="48" alt="Celery" />
+  <br>Celery
+</td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
       <br>C
@@ -150,24 +146,18 @@
       <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" width="48" height="48" alt="Google Maps" />
       <br>Google Maps
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="OAuth" />
-      <br>OAuth
-    </td>
+   <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="48" height="48" alt="Bootstrap" />
+  <br>Bootstrap
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/swagger-icon.svg" width="48" height="48" alt="Swagger" />
+  <br>Swagger
+</td>
+
+   
   </tr>
 </table>
 </div>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammi961&show_icons=true&theme=tokyonight&locale=en" alt="muzammil stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammi961&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muzammil top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammi961&theme=tokyonight" alt="muzammil streak" />
-</p>
