@@ -5,21 +5,10 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I'm currently working on **TravelSync** – A full-stack AI-powered travel social platform
-- 🌱 I'm currently learning **RabbitMQ, LangChain, Advanced Microservices**
-- 💬 Ask me about **Python, Django, Django REST Framework, React, Redux, WebSockets, Microservices, PostgreSQL**
-- 📫 How to reach me: **muzammilkizhukeric@gmail.com**
-- 📍 Based in **Kerala, India**
-- ⚡ Fun fact: I built a 5-service microservices architecture with 50+ API endpoints!
-
----
-
 ### 🔗 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muzammil-cherukkavil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil" height="30" width="40" /></a>
 <a href="https://github.com/YOUR_GITHUB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muzammil" height="30" width="40" /></a>
 </p>
 
