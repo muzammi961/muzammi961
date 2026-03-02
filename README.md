@@ -1,7 +1,40 @@
 <div align="center">
-  <h1>Hi 👋, I'm Muzammil C</h1>
-  <h3>Python Full Stack Developer | Microservices | Real-Time Systems | AI/NLP</h3>
+  
+<img src="https://your-banner-url-here.png" alt="Banner" width="100%" />
+
+<br/>
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
+[![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+
 </div>
+
+---
+
+### About Me
+
+- 🌱 I’m currently learning **NestJS, Langchain, and Langgraph**
+- 🔭 I’m currently working on **AI Sales Agent**
+- 💬 Ask me about **Python, Django, REST API, React JS, Node.js, and Zustand**
+- 📫 How to reach me: **yourname@email.com**
+- ⚡ Interest: **Writing tech blogs on Dev.to and Medium**
+
+---
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
+
+
+
+
 
 ---
 
