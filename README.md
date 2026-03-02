@@ -33,7 +33,7 @@ Currently focused on developing an intelligent learning platform powered by RAG 
 
 <br/>
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="left">Languages & Tools</h3>
 
 <div align="center">
 <table>
