@@ -10,6 +10,18 @@
 - 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap)</p>
 
 
+
+
+<h3 align="left">About Me</h3>
+<p align="left"></p>
+
+- 🌱 I’m currently learning NestJS, Langchain, Langraph
+- 🔭 I’m currently working on AI Sales Agent
+- 💬 Ask me about **Python, Django, REST API, Javascript, React JS, Redux, Vue JS, NodeJS, NestJS, ExpressJS, NextJS, Zustand**
+- 📫 How to reach me **thouseefhamza.codes@gmail.com**
+- ⚡ Interest **Blog- Dev,Medium**
+
+
 Connect with me:
 <br/>
 
