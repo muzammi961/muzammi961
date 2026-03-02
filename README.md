@@ -160,7 +160,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzami961&bg_color=0a0a1a&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&area_color=2D1B69&hide_border=true)](https://github.com/muzami961)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzammi961&bg_color=0a0a1a&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&area_color=2D1B69&hide_border=true)](https://github.com/muzami961)
 
 </div>
 
