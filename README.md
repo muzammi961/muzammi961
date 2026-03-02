@@ -1,15 +1,15 @@
 <div align="center">
   <img width="1584" height="396" alt="Black Minimalist Corporate Business Profile LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/16baa216-a133-4582-bea7-97d1cfa72916" />
-
+</div>
 <br/>
 <h3 align="left">About Me</h3>
 <br/>
-<p align="left"></p>
+<p align="left">
 - 🛠️ Currently working: An AI-powered learning platform for structured study
 - 🌱 Currently Learning: FastAPI, SQLAlchemy, MongoDB (ODM), RAG, Agentic AI
-- 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap)
- 
-</div>
+- 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap)</p>
+
+
 Connect with me:
 <br/>
 
