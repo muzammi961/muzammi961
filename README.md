@@ -74,11 +74,10 @@ Currently focused on developing an intelligent learning platform powered by RAG 
     </td>    <td align="center"><img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" width="48"/><br>Google Maps API</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/><br>Swagger</td>
-    <td align="center" width="96"><img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="Swagger API"             width="48" height="48"/><br>Swagger </td>
-  </tr>
-
   <tr>
     <td align="center"><img src="https://www3.technologyevaluation.com/getattachment/c18a3ee5-30fb-5b53-bb73-294d78987b26/logo.png?source=tw2&ext=.png" width="48"/><br>TextBlob</td>
+    <td align="center" width="96"><img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="Swagger API"             width="48" height="48"/><br>Swagger </td>
+  </tr>
   </tr>
 </table>
 </div>
