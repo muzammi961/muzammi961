@@ -1,169 +1,213 @@
 <div align="center">
+  <h1>Hi 👋, I'm Muzammil C</h1>
+  <h3>Python Full Stack Developer | Microservices | Real-Time Systems | AI/NLP</h3>
+</div>
 
-# 👋 Hi, I'm Muzammil C
+---
 
-### 🐍 Python Full Stack Developer | Microservices | AI/NLP | Real-Time Systems
+### 🚀 About Me
 
-<p>
-  <a href="mailto:muzammilkizhukeric@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+- 🔭 I'm currently working on **TravelSync** – A full-stack AI-powered travel social platform
+- 🌱 I'm currently learning **RabbitMQ, LangChain, Advanced Microservices**
+- 💬 Ask me about **Python, Django, Django REST Framework, React, Redux, WebSockets, Microservices, PostgreSQL**
+- 📫 How to reach me: **muzammilkizhukeric@gmail.com**
+- 📍 Based in **Kerala, India**
+- ⚡ Fun fact: I built a 5-service microservices architecture with 50+ API endpoints!
+
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil" height="30" width="40" /></a>
+<a href="https://github.com/YOUR_GITHUB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muzammil" height="30" width="40" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-
-</div>
-
 ---
 
-## 🚀 About Me
-```python
-class MuzammilC:
-    role = "Python Full Stack Developer"
-    location = "Kerala, India 🇮🇳"
-    company = "Bridgeon Solutions LLP"
-    
-    skills = {
-        "languages":  ["Python", "JavaScript", "C"],
-        "backend":    ["Django", "DRF", "Django Channels", "Microservices", "JWT"],
-        "frontend":   ["React", "Redux", "Tailwind CSS", "Axios", "HTML", "CSS"],
-        "databases":  ["PostgreSQL", "SQLite", "Redis"],
-        "ai_nlp":     ["HuggingFace Transformers", "TextBlob", "Pipeline"],
-        "realtime":   ["WebSockets", "Live Chat", "GPS Tracking", "Notifications"],
-        "devops":     ["Docker", "AWS EC2", "Nginx", "Celery", "RabbitMQ"],
-        "apis":       ["Google Maps", "Razorpay", "UPI", "OpenWeatherMap", "OAuth"],
-    }
-    
-    currently_working_on = "AI-enhanced travel platform (TravelSync)"
-    learning = ["NestJS", "LangChain", "LangGraph"]
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Django Channels](https://img.shields.io/badge/Django%20Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🤖 AI / NLP
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TextBlob](https://img.shields.io/badge/TextBlob-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ☁️ DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🔌 APIs & Integrations
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
----
-
-## 💼 Experience
-
-### React & Python Developer — [Bridgeon Solutions LLP](https://www.bridgeon.in/), Malappuram
-**2025 – Present**
-
-- 🏗️ Designed a full-stack travel social platform using **React + Django/DRF** with a **5-service Microservices Architecture** powered by RabbitMQ
-- ⚡ Engineered a **real-time system** using WebSockets & Django Channels for live GPS tracking, group chat, and notifications
-- 🤖 Integrated **5+ third-party APIs** — Google Maps, Razorpay, OpenWeatherMap, TextBlob, HuggingFace — for AI-powered features
-- 🚀 Provisioned on **AWS EC2** + Netlify, optimized PostgreSQL with strategic prefetching → **40% faster API response, 99% uptime**
-
----
-
-## 🌟 Featured Projects
-
-### 🗺️ TravelSync — AI-Powered Travel Platform
-> Full-stack travel social platform with real-time collaboration, AI insights, and geospatial optimization
-
-- 🔗 **5-service Microservices Architecture** (auth, profile, social, experience, expense) with RabbitMQ RPC
-- 💬 Real-time **group chat, GPS tracking & notifications** via Django Channels & WebSockets (500+ concurrent users)
-- 🧠 **AI sentiment analysis** using HuggingFace Transformers & TextBlob on 5,000+ experiences
-- 💳 **Secure payments** with Razorpay & UPI — dynamic QR generation + OTP verification
-- 🗺️ **Google Maps** route optimization with geographical algorithms
-- 📈 60% backend performance boost through advanced ORM techniques & caching
-- 👥 Serving **1,000+ users** across **50+ API endpoints**
-
-**Tech:** `Python` `Django` `DRF` `PostgreSQL` `RabbitMQ` `WebSocket` `Django Channels` `JWT` `Google OAuth` `HuggingFace` `TextBlob` `Google Maps` `Razorpay` `Redis` `Docker` `Celery` `Microservices`
-
----
-
-### 🛒 RecipeCart — Full-Stack E-Commerce Platform
-> Scalable recipe & digital product marketplace serving 1,000+ monthly visitors
-
-- 🔐 **JWT authentication** with cart, wishlist & order management (5,000+ monthly interactions)
-- 💰 **Razorpay payment gateway** with real-time verification + admin panel (40% less management effort)
-- 🖥️ **REST APIs** with Django REST Framework + responsive React frontend (10K+ monthly UI interactions)
-- ☁️ Deployed on **AWS EC2** with Nginx & Gunicorn — **99% uptime**
-
-**Tech:** `Python` `Django` `DRF` `JWT` `React` `Axios` `PostgreSQL` `Razorpay` `AWS EC2` `Nginx` `Gunicorn`
-
----
-
-## 📊 GitHub Stats
+### 🛠️ Languages and Tools:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" height="62" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="62" height="62" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="62" height="62" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=celery" width="48" height="48" alt="Celery" />
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="http://jwt.io/img/icon.svg" width="48" height="48" alt="JWT" />
+      <br>JWT
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Gunicorn" />
+      <br>Gunicorn
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="HuggingFace" />
+      <br>HuggingFace
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="EC2" />
+      <br>AWS EC2
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" width="48" height="48" alt="Google Maps" />
+      <br>Google Maps
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="OAuth" />
+      <br>OAuth
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-## 🎓 Education
+### 💼 Experience
 
-| Degree | Institution | Year |
-|--------|------------|------|
-| 🎓 Bachelor of Arts (B.A.) | Calicut University | 2023 – Present |
-| 📚 Higher Secondary (+2) — Computer Commerce | — | 2021 – 2023 |
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-📧 **muzammilkizhukeric@gmail.com** | 📍 **Kerala, India**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB)
-
-</div>
+**React & Python Developer** @ **Bridgeon Solutions LLP**, Malappuram *(2025 – Present)*
+- 🏗️ Designed a full-stack travel social platform using React & Django/DRF with a **5-service Microservices Architecture** powered by RabbitMQ
+- ⚡ Engineered a real-time system using **WebSockets & Django Channels** for live GPS tracking, group chat & notifications
+- 🤖 Integrated 5+ third-party APIs (**Google Maps, Razorpay, OpenWeatherMap, TextBlob, HuggingFace**) with AI-powered features
+- 🚀 Provisioned apps on **AWS EC2**, achieving **40% faster API response times** and **99% system reliability**
 
 ---
 
-<div align="center">
-  <i>⚡ "Building scalable, real-time, AI-powered systems — one commit at a time." ⚡</i>
-</div>
+### 🧩 Projects
+
+#### 🌍 TravelSync – Travel Expense & Experience with Social Media
+> Scalable 5-service microservices architecture serving **1,000+ users** with **50+ API endpoints**
+
+- ✅ RabbitMQ RPC for communication between 5 independent microservices (auth, profile, social, experience, expense)
+- ✅ Django Channels & WebSockets for real-time group chat, GPS tracking, notifications to **500+ concurrent users**
+- ✅ AI analytics with **HuggingFace Transformers & TextBlob** for sentiment analysis of 5,000+ experiences
+- ✅ Secure payment flows with **Razorpay & UPI** including dynamic QR generation & OTP verification
+- ✅ Google Maps API integration with geographical algorithms for route optimization
+- ✅ **60% backend performance boost** via advanced Django ORM techniques & strategic caching
+
+**Tech:** Python · Django · DRF · PostgreSQL · RabbitMQ · WebSocket · Django Channels · JWT · Google OAuth · HuggingFace · TextBlob · Google Maps · Razorpay · Redis · Docker · Celery · Microservices
+
+---
+
+#### 🛒 RecipeCart – E-Commerce Recipe Platform
+> Full-stack e-commerce platform serving **1,000+ monthly visitors** with **10K+ monthly UI interactions**
+
+- ✅ JWT authentication with cart, wishlist & order management handling **5,000+ monthly interactions**
+- ✅ Razorpay payment gateway integration with real-time verification
+- ✅ Admin panel reducing management efforts by **40%**
+- ✅ Deployed on **AWS EC2** with Nginx & Gunicorn ensuring **99% uptime**
+
+**Tech:** Python · Django · DRF · JWT · React · Axios · PostgreSQL · Razorpay · AWS EC2 · Nginx · Gunicorn
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&locale=en" alt="muzammil stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muzammil top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="muzammil streak" />
+</p>
