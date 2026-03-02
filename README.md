@@ -1,6 +1,7 @@
 <div align="center">
   
-<img src="https://your-banner-url-here.png" alt="Banner" width="100%" />
+
+<img width="1584" height="396" alt="Black Minimalist Corporate Business Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/af311469-aa49-49b8-b028-777bf24b8fff" />
 
 <br/>
 
