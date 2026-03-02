@@ -1,7 +1,5 @@
 <div align="center">
-  
-
-<img width="1584" height="396" alt="Black Minimalist Corporate Business Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/af311469-aa49-49b8-b028-777bf24b8fff" />
+  <img width="1584" height="396" alt="Black Minimalist Corporate Business Profile LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/16baa216-a133-4582-bea7-97d1cfa72916" />
 
 <br/>
 
@@ -12,7 +10,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 
 </div>
-### 🔗 Connect with me:
+🔗 Connect with me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/muzammil-cherukkavil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil" height="30" width="40" /></a>
