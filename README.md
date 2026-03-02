@@ -5,10 +5,10 @@
 <h3 align="left">About Me</h3>
 <br/>
 <p align="left"></p>
-- 🛠️ Current Focus: An AI-powered learning platform for structured study.
-- 🌱 Currently Learning: FastAPI, SQLAlchemy, MongoDB (ODM), RAG, Agentic AI.
-- 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap).
-
+- 🛠️ Currently working: An AI-powered learning platform for structured study
+- 🌱 Currently Learning: FastAPI, SQLAlchemy, MongoDB (ODM), RAG, Agentic AI
+- 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap)
+ 
 </div>
 Connect with me:
 <br/>
