@@ -160,8 +160,7 @@ Languages and Tools:
     </td>
   </tr>
 </table>
-  
-Contribution Galaxy
+<h3 align="left">Contribution Galaxy</h3>
 <div align="center">
 
   
