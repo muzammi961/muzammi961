@@ -14,15 +14,7 @@
 
 ---
 
-### About Me
 
-- 🌱 I’m currently learning **NestJS, Langchain, and Langgraph**
-- 🔭 I’m currently working on **AI Sales Agent**
-- 💬 Ask me about **Python, Django, REST API, React JS, Node.js, and Zustand**
-- 📫 How to reach me: **yourname@email.com**
-- ⚡ Interest: **Writing tech blogs on Dev.to and Medium**
-
----
 
 ### Connect with me:
 
