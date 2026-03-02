@@ -2,12 +2,13 @@
   <img width="1584" height="396" alt="Black Minimalist Corporate Business Profile LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/16baa216-a133-4582-bea7-97d1cfa72916" />
 
 <br/>
+<h3 align="left">About Me</h3>
+<br/>
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
-[![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
-[![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+* [cite_start]🛠️ **Current Focus:** Refining event-driven architectures and large-scale third-party API integrations (Google Maps, Razorpay, OpenWeatherMap). [cite: 29, 31, 38]
+* [cite_start]🌱 **Learning:** Expanding my expertise in **DevOps** (Docker, AWS) and **AI/NLP pipelines** using Hugging Face and TextBlob. [cite: 21, 23, 40]
+* [cite_start]💬 **Ask me about:** Python, Django, React, Microservices, and WebSocket implementation. [cite: 18, 19, 22, 44]
+* [cite_start]⚡ **Fun Fact:** I’ve optimized backend performance by **60%** using advanced ORM techniques. [cite: 43]
 
 </div>
 🔗 Connect with me:
@@ -18,8 +19,7 @@
 </p>
 
 ---
-
-### 🛠️ Languages and Tools:
+🛠️ Languages and Tools:
 
 <div align="center">
 <table>
