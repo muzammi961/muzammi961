@@ -2,24 +2,15 @@
   <img width="1584" height="396" alt="Black Minimalist Corporate Business Profile LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/16baa216-a133-4582-bea7-97d1cfa72916" />
 </div>
 <br/>
-<h3 align="left">About Me</h3>
-<br/>
-<p align="left">
-- 🛠️ Currently working: An AI-powered learning platform for structured study
-- 🌱 Currently Learning: FastAPI, SQLAlchemy, MongoDB (ODM), RAG, Agentic AI
-- 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap)</p>
-
 
 
 
 <h3 align="left">About Me</h3>
 <p align="left"></p>
 
-- 🌱 I’m currently learning NestJS, Langchain, Langraph
-- 🔭 I’m currently working on AI Sales Agent
-- 💬 Ask me about **Python, Django, REST API, Javascript, React JS, Redux, Vue JS, NodeJS, NestJS, ExpressJS, NextJS, Zustand**
-- 📫 How to reach me **thouseefhamza.codes@gmail.com**
-- ⚡ Interest **Blog- Dev,Medium**
+- 🛠️ Currently working: An AI-powered learning platform for structured study
+- 🌱 Currently Learning: FastAPI, SQLAlchemy, MongoDB (ODM), RAG, Agentic AI
+- 💬 Ask me about: Python, Django, React, Microservices, WebSocket implementation, AI/NLP pipelines using Hugging Face and TextBlob third-party API integrations (Google Maps, Razorpay, OpenWeatherMap)
 
 
 Connect with me:
