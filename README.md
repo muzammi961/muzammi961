@@ -158,56 +158,16 @@
 </table>
 </div>
 
----
-
-### 💼 Experience
-
-**React & Python Developer** @ **Bridgeon Solutions LLP**, Malappuram *(2025 – Present)*
-- 🏗️ Designed a full-stack travel social platform using React & Django/DRF with a **5-service Microservices Architecture** powered by RabbitMQ
-- ⚡ Engineered a real-time system using **WebSockets & Django Channels** for live GPS tracking, group chat & notifications
-- 🤖 Integrated 5+ third-party APIs (**Google Maps, Razorpay, OpenWeatherMap, TextBlob, HuggingFace**) with AI-powered features
-- 🚀 Provisioned apps on **AWS EC2**, achieving **40% faster API response times** and **99% system reliability**
-
----
-
-### 🧩 Projects
-
-#### 🌍 TravelSync – Travel Expense & Experience with Social Media
-> Scalable 5-service microservices architecture serving **1,000+ users** with **50+ API endpoints**
-
-- ✅ RabbitMQ RPC for communication between 5 independent microservices (auth, profile, social, experience, expense)
-- ✅ Django Channels & WebSockets for real-time group chat, GPS tracking, notifications to **500+ concurrent users**
-- ✅ AI analytics with **HuggingFace Transformers & TextBlob** for sentiment analysis of 5,000+ experiences
-- ✅ Secure payment flows with **Razorpay & UPI** including dynamic QR generation & OTP verification
-- ✅ Google Maps API integration with geographical algorithms for route optimization
-- ✅ **60% backend performance boost** via advanced Django ORM techniques & strategic caching
-
-**Tech:** Python · Django · DRF · PostgreSQL · RabbitMQ · WebSocket · Django Channels · JWT · Google OAuth · HuggingFace · TextBlob · Google Maps · Razorpay · Redis · Docker · Celery · Microservices
-
----
-
-#### 🛒 RecipeCart – E-Commerce Recipe Platform
-> Full-stack e-commerce platform serving **1,000+ monthly visitors** with **10K+ monthly UI interactions**
-
-- ✅ JWT authentication with cart, wishlist & order management handling **5,000+ monthly interactions**
-- ✅ Razorpay payment gateway integration with real-time verification
-- ✅ Admin panel reducing management efforts by **40%**
-- ✅ Deployed on **AWS EC2** with Nginx & Gunicorn ensuring **99% uptime**
-
-**Tech:** Python · Django · DRF · JWT · React · Axios · PostgreSQL · Razorpay · AWS EC2 · Nginx · Gunicorn
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&locale=en" alt="muzammil stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammi961&show_icons=true&theme=tokyonight&locale=en" alt="muzammil stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muzammil top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammi961&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muzammil top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="muzammil streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammi961&theme=tokyonight" alt="muzammil streak" />
 </p>
