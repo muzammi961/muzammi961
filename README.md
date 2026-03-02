@@ -146,16 +146,30 @@
       <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" width="48" height="48" alt="Google Maps" />
       <br>Google Maps
     </td>
-   <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="48" height="48" alt="Bootstrap" />
-  <br>Bootstrap
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/swagger-icon.svg" width="48" height="48" alt="Swagger" />
-  <br>Swagger
-</td>
-
-   
+      <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/docs/images/swagger-logo.png" width="48" height="48" alt="Swagger" />
+      <br>Swagger
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/_static/transformers.svg" width="48" height="48" alt="Transformers" />
+      <br>Transformers
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/TextBlob_logo.png" width="48" height="48" alt="TextBlob" />
+      <br>TextBlob
+    </td>   
   </tr>
 </table>
 </div>
